@@ -1,0 +1,6 @@
+framework module Pods_TweetBotTests {
+  umbrella header "Pods-TweetBotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
